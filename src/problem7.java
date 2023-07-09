@@ -10,6 +10,5 @@ public class problem7 {
         arr[end] = temp;
 
 
-        reverseArray(arr, start + 1, end - 1);
-    }
+        reverseArray(arr, start + 1, end - 1);}
 }
