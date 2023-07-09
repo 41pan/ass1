@@ -6,7 +6,6 @@ public class problem6 {
             return a * calculateExponent(a, n - 1);
         } else {
             return 1 / (a * calculateExponent(a, -n - 1));
-        }
-    }
+        }}
 
 }
