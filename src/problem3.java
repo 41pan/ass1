@@ -13,10 +13,4 @@ public class problem3 {
 
     return true;
 }
-
-    public static void main(String[] args) {
-        int n = 13;
-        boolean isPrime = isPrime(n);
-        System.out.println(isPrime);
-    }
 }
